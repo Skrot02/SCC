@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 233, 220);
+}
+header {
+    color: aqua;
+    background-color: crimson;
+    border-radius: 10px;
+    border:3px solid brown ;
+    font-size: 20px;
+    margin: 7px;
+}
+header img {
+    margin: 6px;
+}
+header a {
+    text-decoration: none;
+}
+h1 {
+    color: aqua;
+    background-color: crimson;
+    font-size: 60px;
+    padding: 10px;
+    text-align: center;
+    margin: 9px;
+    border-radius: 20px;
+    border:5px solid brown;
+    text-transform: uppercase;
+}
+footer p{
+    border: 8px solid tomato;
+    background-color: greenyellow;
+}
+footer {
+    font-size: 25px;
+}
+nav a {
+    text-decoration: none;
+    background-color: crimson;
+    border-radius: 20px;
+    border:3px solid brown ;
+    font-size: 25px;
+    margin: 10px;
+    padding: 5px;
+}
+.GG{
+    background-color: crimson;
+    border:5px solid brown ;
+    border-radius: 20px;
+}
+.yy{
+    text-align: center;
+    color: crimson;
+
+}
+.ff{
+    border: 4px solid crimson;
+    border-radius: 20px;
+    height: 500px;
+    width: 700px;
+}
+.rr{
+    text-align: center;
+    color: crimson;
+}
+.tt{
+    text-decoration: none;
+    border:3px solid crimson;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(252, 244, 243);
+    color: rgb(22, 197, 22)
+}
